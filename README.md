@@ -1,32 +1,61 @@
-# | Sistemas ME |
+# Sistemas ME
 
-Software interactivo para aprender las partes del Sistema Muscular - Esquelético humano,
-incorporado con imágenes interactivas, y audios explicativos.
+## Descripción
 
-* github.com/arhcoder/Sistemas-ME/
-__________________________________________________________________________________________
+🖥 Software interactivo para aprender las partes del Sistema Muscular/Esquelético humano, incorporado con imágenes interactivas y audios explicativos. Sitúa el cursor sobre la parte del cuerpo que quieras conocer y haz clic sobre esta si en lugar de leer, prefieres escuchar.
+____
 
-# CRÉDITOS:
 
-Desarrolladores:
-  * Alejandro Ramos Herrera (@arhcoder).
-  * Bryan Josue López López.
+## Acerca de
 
-Voces utilizadas:
-    * Liliana Alejandra Bonilla Salas.
-    * Bryan Jossue Luevano García.
+📅 **Fecha de inicio:** Octubre 25 de 2018.
 
-Imágenes utilizadas:
-  * Icons made by Mercado de Vectores from Flaticon (https://www.flaticon.com).
-__________________________________________________________________________________________
+✅ **Última actualización:** Octubre 25 de 2018.
 
-# LICENSE:
-  * GNU GPLv3.
-__________________________________________________________________________________________
+✅ **Estado:** Finalizado.
 
-# ACERCA DE:
+❓ **Propósito:** Proyecto escolar de Biología.
+___
 
-Desarrollado en octubre de 2018.
-Tiempo de desarrollo: 1 noche.
-Propósito: Educación.
-__________________________________________________________________________________________
+
+## Créditos
+
+💻 **Programación:**
+ * Alejandro Ramos Herrera **(@arhcoder).**
+ * Bryan Josué López López.
+  
+🔊 **Narración:**
+ * Liliana Alejandra Bonilla Salas.
+ * Bryan Jossué Luevano García.
+    
+📰 **Investigación:**
+ * Jorge Antonio Hernández Magallanes.
+ * Daniela Alejandra Cisneros Oliva.
+
+🎨 **Gráficos:**
+  * Icons made by Mercado de Vectores from **[Flaticon](https://www.flaticon.com)**.
+___
+
+
+## Tecnologías
+
+❄ **Lenguajes:**
+ * Java.
+ 
+🧰 **Entornos:**
+ * NetBeans IDE 8.2.
+
+🛠 **Herramientas:**
+ * Audacity.
+___
+
+
+## Detalles
+
+🔰 ...
+___
+
+
+## Licencia
+
+📝 Creative Commons - Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
